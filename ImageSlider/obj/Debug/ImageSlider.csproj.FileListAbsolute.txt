@@ -1,0 +1,10 @@
+D:\AW 17\Source Code Visual Studio 19\ImageSlider\ImageSlider\bin\Debug\ImageSlider.exe.config
+D:\AW 17\Source Code Visual Studio 19\ImageSlider\ImageSlider\bin\Debug\ImageSlider.exe
+D:\AW 17\Source Code Visual Studio 19\ImageSlider\ImageSlider\bin\Debug\ImageSlider.pdb
+D:\AW 17\Source Code Visual Studio 19\ImageSlider\ImageSlider\obj\Debug\ImageSlider.csprojAssemblyReference.cache
+D:\AW 17\Source Code Visual Studio 19\ImageSlider\ImageSlider\obj\Debug\ImageSlider.Properties.Resources.resources
+D:\AW 17\Source Code Visual Studio 19\ImageSlider\ImageSlider\obj\Debug\ImageSlider.csproj.GenerateResource.cache
+D:\AW 17\Source Code Visual Studio 19\ImageSlider\ImageSlider\obj\Debug\ImageSlider.csproj.CoreCompileInputs.cache
+D:\AW 17\Source Code Visual Studio 19\ImageSlider\ImageSlider\obj\Debug\ImageSlider.exe
+D:\AW 17\Source Code Visual Studio 19\ImageSlider\ImageSlider\obj\Debug\ImageSlider.pdb
+D:\AW 17\Source Code Visual Studio 19\ImageSlider\ImageSlider\obj\Debug\ImageSlider.Form1.resources
